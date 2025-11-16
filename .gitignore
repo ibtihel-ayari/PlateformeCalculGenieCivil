@@ -1,0 +1,8 @@
+# Environnement virtuel
+venv/
+
+# Fichiers Python compilés
+__pycache__/
+
+# Rapport PDF généré
+rapport_resultats.pdf
